@@ -1,0 +1,5 @@
+# .cloudflare/pages.yml
+build:
+  root: google-books-app
+  command: npm run build
+  output: build
