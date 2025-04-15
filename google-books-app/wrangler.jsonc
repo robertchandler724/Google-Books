@@ -1,0 +1,5 @@
+{
+    "name": "Google Books App",
+    "compatablility_date": "2025-04-15",
+    "main": "src/index.js"
+}
